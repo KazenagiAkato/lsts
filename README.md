@@ -6,5 +6,5 @@
 <p> Trường PTCĐ FPT POLYTECHNIC ĐỒNG NAI </p>
 <p>Họ và tên sinh viên: Nguyễn Phạm Tiến</p>
 <p>Lớp: SD1805
-<p>Mã số sinh viên: TB00856/p>
+<p>Mã số sinh viên: TB00856</p>
 <p> Người hỗ trợ: Bùi Đăng Khoa(classmate) </p>
